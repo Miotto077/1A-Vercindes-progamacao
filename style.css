@@ -3,7 +3,7 @@ background-color: honeydew;
 }
 
 .principal{
-    background-color: black;
+    background-color:lightgray
     padding: 30px;
     text-align: center;
     font-size: 20px;
@@ -17,7 +17,7 @@ background-color: honeydew;
 }
 
 .beneficios{
-    background-color: black;
+    background-color:#ffffff
     padding: 20px;
     font-size: 20px;
 }
