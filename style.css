@@ -30,4 +30,11 @@ h2{
 #imagem1{
     height: 20%;
     text-align: center;
+
+}
+ul{
+    display:inline-block;
+    vertical-align: top;
+    margin: 3%;
+    list-style: circle;
 }
